@@ -2,6 +2,8 @@
 
 A browser-based pool/billiards game built with HTML5 Canvas and vanilla JavaScript. Features realistic physics, collision detection, and smooth gameplay.
 
+Project live at : https://darksaber2311.github.io/Pool-Game/
+
 ## 🎮 Features
 
 - **Physics-based gameplay**: Realistic ball movement with friction and collision detection
